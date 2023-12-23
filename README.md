@@ -27,7 +27,7 @@
 
 ## Reference
 
-Article submitted for evaluation in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (EAAI) - Elsevier, 2023.
+* Article submitted for evaluation in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) (EAAI) - Elsevier, 2023.
 
 ## Licence
 
